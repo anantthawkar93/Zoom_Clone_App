@@ -1,2 +1,2 @@
 # Zoom_Clone_App
-This Project is about creating Zoon Clone app using NodeJS
+This Project is about creating Zoom Clone app using NodeJS
